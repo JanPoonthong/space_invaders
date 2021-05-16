@@ -2,6 +2,8 @@
 
 New Space Invaders is written in Python and Pygame modules
 
+![Demonstration of space invaders](demo.gif)
+
 ## Requirements
 
 ### Linux
